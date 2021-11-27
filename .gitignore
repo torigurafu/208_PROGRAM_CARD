@@ -24,3 +24,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+.DS_Store
+208_PROGRAM_CARD_VINTAGE/208_PROGRAM_CARD_PROTO_vintage-backups/208_PROGRAM_CARD_PROTO_vintage-2021-11-27_182205.zip
+208_PROGRAM_CARD_VINTAGE/208_PROGRAM_CARD_PROTO_vintage.kicad_prl
