@@ -3,6 +3,10 @@ A 208 program card project
 
 **This fork adds the vintage version of the card.**
 
+![Front](208_PROGRAM_CARD_VINTAGE/208_PROGRAM_CARD_PROTO_vintage.jpg)
+![Back](208_PROGRAM_CARD_VINTAGE/208_PROGRAM_CARD_PROTO_vintage_back.jpg)
+
+
 These Model 208 Program Cards are designed to interface with the “PROGRAM BOARD” edge connector of a Buchla & Associates Model 208 Stored Program Sound Source module and its reissues / compatible units. Two versions are provided, one for standard use and one with a prototyping area where additional active circuitry can be added if desired. For guidance on general use, see Allen Strange’s “Programming and Meta-Programming the Electro Organism” manual.
 
 Beyond the settings / connections available on the original cards, the following features are provided:
